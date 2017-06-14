@@ -36,5 +36,8 @@
   "bugs": {
     "url": "https://github.com/mheiber/redux-funk/issues"
   },
-  "homepage": "https://github.com/mheiber/redux-funk#readme"
+  "homepage": "https://github.com/mheiber/redux-funk#readme",
+  "dependencies": {
+    "immutable": "^3.8.1"
+  }
 }
